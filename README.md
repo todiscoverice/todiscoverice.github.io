@@ -1,1 +1,2 @@
-# todiscoverice.github.io
+# cool
+Support todiscoverice@163.com
